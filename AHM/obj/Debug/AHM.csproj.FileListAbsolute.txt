@@ -1,0 +1,20 @@
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\bin\Debug\AHM.exe.config
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\bin\Debug\AHM.exe
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\bin\Debug\AHM.pdb
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\obj\Debug\AHM.csproj.AssemblyReference.cache
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\obj\Debug\AHM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\obj\Debug\AHM.csproj.CoreCompileInputs.cache
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\obj\Debug\AHM.csproj.CopyComplete
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\obj\Debug\AHM.exe
+C:\Users\Jonah De Clerck\source\repos\AHM\AHM\obj\Debug\AHM.pdb
+C:\AHM\AHM\bin\Debug\AHM.exe.config
+C:\AHM\AHM\bin\Debug\AHM.exe
+C:\AHM\AHM\bin\Debug\AHM.pdb
+C:\AHM\AHM\bin\Debug\OpenHardwareMonitorLib.dll
+C:\AHM\AHM\obj\Debug\AHM.csproj.AssemblyReference.cache
+C:\AHM\AHM\obj\Debug\AHM.csproj.SuggestedBindingRedirects.cache
+C:\AHM\AHM\obj\Debug\AHM.csproj.CoreCompileInputs.cache
+C:\AHM\AHM\obj\Debug\AHM.csproj.CopyComplete
+C:\AHM\AHM\obj\Debug\AHM.exe
+C:\AHM\AHM\obj\Debug\AHM.pdb
