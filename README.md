@@ -11,3 +11,5 @@ Arduino project that shows cpu/gpu usage and temperature on an lcd screen using 
 >I've also set the c# code up to run on startup, as a system process 
 >(which makes it hidden and shows up under background processes in task manager) 
 >This can be done using the windows task scheduler.
+
+https://github.com/jonahdeclerck/hardware_monitor/assets/106692160/7d595d0e-ee65-4f41-b35b-2fc1569803b1
